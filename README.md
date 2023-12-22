@@ -1,1 +1,1 @@
-# btj-academy-fe-noteApp-tw-vue-niko-
+# Note App using Tailwind and Vue Js
